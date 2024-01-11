@@ -1,0 +1,252 @@
+[
+  {
+    "uuid": "3d7b068b-34b6-4122-b374-ba5597e66583",
+    "name": "Roe deer",
+    "scientificName": "Capreolus capreolus"
+  },
+  {
+    "uuid": "6fccb2d1-f851-40c9-be49-eb54ae323936",
+    "name": "Least chipmunk",
+    "scientificName": "Eutamias minimus"
+  },
+  {
+    "uuid": "f4b66d3a-659d-42c2-8def-035d977abd30",
+    "name": "Green-winged trumpeter",
+    "scientificName": "Psophia viridis"
+  },
+  {
+    "uuid": "9add8c5b-9309-4c3d-98c2-88863c0c05a4",
+    "name": "Kongoni",
+    "scientificName": "Alcelaphus buselaphus cokii"
+  },
+  {
+    "uuid": "caca51f2-293d-4c5c-a15b-5f3d0352ed52",
+    "name": "Snowy owl",
+    "scientificName": "Nyctea scandiaca"
+  },
+  {
+    "uuid": "78e8609b-5f73-4d82-9758-608cb5eda6b7",
+    "name": "Sloth, two-toed tree",
+    "scientificName": "Choloepus hoffmani"
+  },
+  {
+    "uuid": "8e3ae38f-9cc4-4c4c-b016-6d09f3116680",
+    "name": "Phalarope, grey",
+    "scientificName": "Phalaropus fulicarius"
+  },
+  {
+    "uuid": "83d334a1-7bac-472f-8fe2-ddfbe17a613e",
+    "name": "Tiger cat",
+    "scientificName": "Dasyurus maculatus"
+  },
+  {
+    "uuid": "eaa8bd01-7ab8-4ff1-99a3-abab602dac8b",
+    "name": "Giant heron",
+    "scientificName": "Ardea golieth"
+  },
+  {
+    "uuid": "95b39de0-e314-428f-9c65-e704d6c2c5bc",
+    "name": "Starling, cape",
+    "scientificName": "Lamprotornis nitens"
+  },
+  {
+    "uuid": "d8fb2b04-8a3c-4f4f-81af-749fbec35c8e",
+    "name": "Great egret",
+    "scientificName": "Casmerodius albus"
+  },
+  {
+    "uuid": "672470cf-cc21-4d19-9f3c-70e1a8b57d2b",
+    "name": "Aardwolf",
+    "scientificName": "Proteles cristatus"
+  },
+  {
+    "uuid": "1cdfa3e5-cec0-4001-8d70-e2c58a367b88",
+    "name": "Squirrel, european red",
+    "scientificName": "Sciurus vulgaris"
+  },
+  {
+    "uuid": "02abc21a-4d4a-402f-8bd8-c8f0da66057d",
+    "name": "Black-tailed tree creeper",
+    "scientificName": "Climacteris melanura"
+  },
+  {
+    "uuid": "f0f5340b-8891-455e-bb89-5a946d682daf",
+    "name": "Mongoose, eastern dwarf",
+    "scientificName": "Helogale undulata"
+  },
+  {
+    "uuid": "29b6b72e-6738-4895-b640-c2173052fbfa",
+    "name": "Aardwolf",
+    "scientificName": "Proteles cristatus"
+  },
+  {
+    "uuid": "84d9426f-f718-45c9-9452-66db6f94cc37",
+    "name": "Cat, european wild",
+    "scientificName": "Felis silvestris lybica"
+  },
+  {
+    "uuid": "2f3ca168-b0b6-4342-80b2-bb7c2f5f618f",
+    "name": "Lion, steller's sea",
+    "scientificName": "Eumetopias jubatus"
+  },
+  {
+    "uuid": "ed1a81ec-074b-4087-a2e5-944bf750a6b7",
+    "name": "Teal, hottentot",
+    "scientificName": "Anas punctata"
+  },
+  {
+    "uuid": "c3529b00-d7ca-4447-b29a-a1cc666f0796",
+    "name": "Francolin, coqui",
+    "scientificName": "Francolinus coqui"
+  },
+  {
+    "uuid": "61f1861c-fcc8-4cbd-8f12-49840df3cadf",
+    "name": "Snowy sheathbill",
+    "scientificName": "Chionis alba"
+  },
+  {
+    "uuid": "4c728691-e7c2-4e7d-9ce8-a03c9e7b593c",
+    "name": "Albatross, waved",
+    "scientificName": "Diomedea irrorata"
+  },
+  {
+    "uuid": "fd3d283a-5fa9-4424-8acb-7e7ab631187f",
+    "name": "Lemur, sportive",
+    "scientificName": "Lepilemur rufescens"
+  },
+  {
+    "uuid": "7b75faed-4c98-4306-8c66-e3b6d899842f",
+    "name": "Monkey, black spider",
+    "scientificName": "Ateles paniscus"
+  },
+  {
+    "uuid": "8d8c1b80-42ed-43d9-a843-00a05e5e91f4",
+    "name": "Skink, african",
+    "scientificName": "Mabuya spilogaster"
+  },
+  {
+    "uuid": "26bdea34-4ea5-40b8-ac06-e429e510cadf",
+    "name": "Otter, small-clawed",
+    "scientificName": "Aonyx cinerea"
+  },
+  {
+    "uuid": "f553c986-7a52-4b2b-a7bf-eefcd16ed75f",
+    "name": "Antechinus, brown",
+    "scientificName": "Antechinus flavipes"
+  },
+  {
+    "uuid": "7b201b7e-ae26-4241-ab71-c1e1f0958d82",
+    "name": "African snake (unidentified)",
+    "scientificName": "unavailable"
+  },
+  {
+    "uuid": "25fa1f14-9723-4cb9-839a-00df86ef59b9",
+    "name": "Zebra, plains",
+    "scientificName": "Equus burchelli"
+  },
+  {
+    "uuid": "9f3f47f0-f839-4bec-8cc6-0d345778029c",
+    "name": "Cardinal, red-capped",
+    "scientificName": "Paroaria gularis"
+  },
+  {
+    "uuid": "6c8c802a-2e44-4f06-8587-b1529cdcf3ef",
+    "name": "Pie, rufous tree",
+    "scientificName": "Dendrocitta vagabunda"
+  },
+  {
+    "uuid": "66058f34-27b9-494b-a189-11763858aca1",
+    "name": "Raven, cape",
+    "scientificName": "Corvus albicollis"
+  },
+  {
+    "uuid": "2c2e38f0-5f2b-4d83-9cde-e320d89b870d",
+    "name": "Raccoon, common",
+    "scientificName": "Procyon lotor"
+  },
+  {
+    "uuid": "16236f61-d241-4b74-97d7-b4ec78543fb8",
+    "name": "White-throated kingfisher",
+    "scientificName": "Halcyon smyrnesis"
+  },
+  {
+    "uuid": "ae7c7ef0-1980-4f65-aa96-a56ae5bef3e5",
+    "name": "Kelp gull",
+    "scientificName": "Larus dominicanus"
+  },
+  {
+    "uuid": "6b2f1878-95be-45e8-b433-505be1c423e3",
+    "name": "Wapiti, elk,",
+    "scientificName": "Cervus canadensis"
+  },
+  {
+    "uuid": "cc43998c-41bf-41c9-bc8a-59be7acd6dbf",
+    "name": "Iguana, marine",
+    "scientificName": "Amblyrhynchus cristatus"
+  },
+  {
+    "uuid": "ca8a9433-0675-418d-b645-677c4c7f93cc",
+    "name": "Asian openbill",
+    "scientificName": "Anastomus oscitans"
+  },
+  {
+    "uuid": "a996db20-148f-4c67-9a5c-20288375356f",
+    "name": "Nighthawk, common",
+    "scientificName": "Chordeiles minor"
+  },
+  {
+    "uuid": "f1ad4dac-67e8-4c66-9af9-0c48e33397f7",
+    "name": "Common green iguana",
+    "scientificName": "Iguana iguana"
+  },
+  {
+    "uuid": "51b31e4e-4852-4082-b8c7-211f524e29ba",
+    "name": "Crab, sally lightfoot",
+    "scientificName": "Graspus graspus"
+  },
+  {
+    "uuid": "3090857e-9502-48d9-9e5a-76d01b0c5c5a",
+    "name": "Red-headed woodpecker",
+    "scientificName": "Melanerpes erythrocephalus"
+  },
+  {
+    "uuid": "bea14b7d-0ed3-4ae0-bdc6-f88e183efaf1",
+    "name": "Fox, north american red",
+    "scientificName": "Vulpes vulpes"
+  },
+  {
+    "uuid": "f9aed43d-e87d-4101-ac38-a98c49ad5180",
+    "name": "Yellow-headed caracara",
+    "scientificName": "Milvago chimachima"
+  },
+  {
+    "uuid": "d278e93d-87c0-4045-b9a6-58b4b3061c11",
+    "name": "Azara's zorro",
+    "scientificName": "Pseudalopex gymnocercus"
+  },
+  {
+    "uuid": "5123cc63-98e9-47ce-8dfe-a7e071f89e8f",
+    "name": "Bald eagle",
+    "scientificName": "Haliaeetus leucocephalus"
+  },
+  {
+    "uuid": "b7219581-fdf2-415c-a2de-4e5c1810bf81",
+    "name": "Macaw, blue and gold",
+    "scientificName": "Ara ararauna"
+  },
+  {
+    "uuid": "c27336e1-9d0c-4083-94dd-1005cb59768c",
+    "name": "White-rumped vulture",
+    "scientificName": "Gyps bengalensis"
+  },
+  {
+    "uuid": "894c1465-c94c-4124-977e-5d57e4b372d4",
+    "name": "Galapagos mockingbird",
+    "scientificName": "Nesomimus trifasciatus"
+  },
+  {
+    "uuid": "3a1d4156-42f8-497d-a54b-b20f96e715b7",
+    "name": "Black-tailed prairie dog",
+    "scientificName": "Cynomys ludovicianus"
+  }
+]
